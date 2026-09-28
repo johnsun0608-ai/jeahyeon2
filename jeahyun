@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>표 만들기 실습</title>
+</head>
+<body>
+
+    <h1>표 만들기 실습</h1>
+
+    <hr>
+
+    <table border="1">
+        <tr>
+            <td>로고</td>
+            <td>펭귄</td>
+        </tr>
+
+        <tr>
+            <td>
+                <img src="logo-1024.jpg" width="300" height="300" alt="건국대학교 로고">
+            </td>
+            <td>
+                <img src="Penguins.jpg" width="300" height="300" alt="펭귄 사진">
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
